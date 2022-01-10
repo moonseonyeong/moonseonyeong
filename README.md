@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&reversal=false&height=200&text=Hi! &fontColor=auto&fontSize=70&fontAlign=50&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&reversal=false&height=170&text=hello&fontColor=#ffffff&fontSize=30&fontAlign=50&fontAlignY=50" />
 
-### Hi there 👋
 
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-indianred?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-salmon?style=flat-square&logo=Storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-forestgreen?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nodemon-limegreen?style=flat-square&logo=Nodemon&logoColor=white"/> <img src="https://img.shields.io/badge/React-deepskyblue?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-darkslateblue?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Git-orangered?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-steelblue?style=flat-square&logo=MySQL&logoColor=white"/>
+
+### 자기소개 🌝
+
+|문선영|<img src="https://user-images.githubusercontent.com/83907511/141394621-5c5980b9-e5d0-43a9-a9ef-0eed048b7203.png" width=70>|
+|:-------------:|:-------------:|
+|Position|Front-end|
+|velog|https://velog.io/@sssssssssy|
 
 
