@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=Slice&color=F0953E&height=120&section=header) -->
+![header](https://capsule-render.vercel.app/api?type=Slice&color=F0953E&height=120&section=header)
 
 ## 안녕하세요 👋 
 기록하는 웹 프론트엔드 개발자 문선영입니다.
