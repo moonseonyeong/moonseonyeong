@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=F0953E&height=120&section=header)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Slice&color=F0953E&height=120&section=header) -->
 
 ## 안녕하세요 👋 
 기록하는 웹 프론트엔드 개발자 문선영입니다.
@@ -28,18 +28,18 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonseonyeong&show_icons=true&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonseonyeong&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonseonyeong&hide=TeX&layout=compact) -->
   
 </div>
 
 
-#
-<p align="center">
+<!-- #
+<p align="center"> -->
 
 <!-- <a href="https://github.com/moonseonyeong" target="_blank"><img alt="moonseonyeong" src="https://badges.pufler.dev/visits/moonseonyeong/moonseonyeong?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a> -->
-![](https://komarev.com/ghpvc/?username=moonseonyeong&label=views&style=plastic&color=ff827f)
+<!-- ![](https://komarev.com/ghpvc/?username=moonseonyeong&label=views&style=plastic&color=ff827f) -->
   
-</p>
+<!-- </p> -->
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Slice&color=F0953E&height=120&section=footer)
