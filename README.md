@@ -24,7 +24,7 @@
 
 
 
-## 𝗦𝘁𝗮𝘁
+## 𝗦𝘁𝗮𝘁s
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonseonyeong&show_icons=true&theme=flag-india)
