@@ -34,12 +34,12 @@
 
 
 #
-<div align="center">
+<p align="center">
 
 <!-- <a href="https://github.com/moonseonyeong" target="_blank"><img alt="moonseonyeong" src="https://badges.pufler.dev/visits/moonseonyeong/moonseonyeong?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a> -->
 ![](https://komarev.com/ghpvc/?username=moonseonyeong&label=views&style=plastic&color=ff827f)
   
-</div>
+</p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Slice&color=F0953E&height=120&section=footer)
