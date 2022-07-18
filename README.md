@@ -8,8 +8,8 @@
 - 사람들과 소통하는 것을 좋아합니다.
 
 
-#
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <div align="center">
   
@@ -24,13 +24,7 @@
 
 
 
-## 𝗦𝘁𝗮𝘁s
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonseonyeong&show_icons=true&theme=flag-india)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonseonyeong&hide=TeX&layout=compact) -->
-  
-</div>
+
 
 
 <!-- #
